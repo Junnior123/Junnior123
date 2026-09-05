@@ -1,4 +1,4 @@
-Minecraft 외 하고싶은거 합니다..
+하고싶은거 합니다..
 
 `Java` · `Python` · `Fabric` · `GitHub Actions`
 
