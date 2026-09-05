@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170" role="img" aria-labelledby="title description">
+  <title id="title">Junnior123</title>
+  <desc id="description">Minecraft mods and automation. A simple dark banner with mint accents.</desc>
+  <rect x="0.5" y="0.5" width="899" height="169" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <path d="M44 51v68" fill="none" stroke="#7ee7c2" stroke-width="2"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="66" y="82" fill="#e6edf3" font-size="36" font-weight="600" letter-spacing="-0.7">Junnior123</text>
+    <text x="67" y="112" fill="#8b949e" font-size="15">Minecraft mods &amp; automation</text>
+  </g>
+  <g fill="none" stroke="#7ee7c2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m794 74-11 11 11 11m36-22 11 11-11 11m-12-29-12 36"/>
+  </g>
+</svg>
