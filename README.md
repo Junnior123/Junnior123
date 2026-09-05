@@ -2,7 +2,7 @@
   <img src="./assets/header.svg" alt="Junnior123 · Minecraft mods & automation" width="100%" />
 </p>
 
-Minecraft 모드와 일상을 편하게 만드는 자동화 도구를 만듭니다.
+Minecraft 외 하고싶은거 합니다..
 
 `Java` · `Python` · `Fabric` · `GitHub Actions`
 
