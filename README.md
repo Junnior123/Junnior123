@@ -1,6 +1,6 @@
 하고싶은거 합니다..
 
-`Java` · `Python` · `Fabric` · `GitHub Actions`
+`Java` · `Python` · `Fabric` · `Paper API`
 
 ### Projects
 
