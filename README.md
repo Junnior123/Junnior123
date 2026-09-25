@@ -5,3 +5,4 @@
 - **[Better Brewing](https://github.com/Junnior123/Better-Brewing)** — 물약을 자동 채우고, 반자동으로 양조를 편하게 만드는 클라이언트 측 모드입니다.
 - **[Vanguard Monitor](https://github.com/Junnior123/vanguard-monitor)** — riot vanguard의 업데이트와 설정 변경을 감지해 discord 웹훅으로 알림을 전송합니다.
 - **[Afloat](https://github.com/Junnior123/Afloat)** - 단축키로 Windows 창을 항상 위에 고정하는 간단한 유틸리티입니다.
+- **[Sentinel](https://github.com/Junnior123/Sentinel)** - Minecraft java용 비인가 파일·프로그램 검사 앱(Anti-Cheat) & 운영자용 대쉬보드 웹입니다.
